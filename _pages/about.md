@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 Md. Arifur Rahman
 Address: 128/2, Shimultoli, Gazipur – 1703, Dhaka, Bangladesh
@@ -15,8 +16,8 @@ E-mail: arifur.rahman13@northsouth.edu
 LinkedIn: https://www.linkedin.com/in/rahmanmdarifur
 
 
-#ACADEMIC CREDENTIALS
-
+**ACADEMIC CREDENTIALS
+**
 
 
 
@@ -41,10 +42,10 @@ Batch of 2014
 GPA: 5.00/5.00
 
 
-#WORK EXPERIENCE
-2 years+
+**WORK EXPERIENCE
+**2 years+
 
-##Lecturer
+Lecturer
 Department of Computer Science and Engineering
 Brac University (BracU)
 
@@ -58,8 +59,8 @@ Course Coordinator: CSE341: Microprocessors Lab
 
 Sept. 2022 - Present
 
-##Research Assistant
-NSU Optics Lab
+**Research Assistant
+**NSU Optics Lab
 North South University (NSU)
 Principal Investigator: Dr. Mahdy Rahman Chowdhury
 
@@ -80,8 +81,8 @@ EEE111: Analog Electronics I
 EEE141: Electrical Circuits I
 
 
-##HONORS & AWARDS
-
+**HONORS & AWARDS
+**
 Summa Cum Laude
 North South University
 Graduated top of class with the highest distinction.
@@ -97,7 +98,7 @@ Received four-year-long merit-based scholarship based on admission test score.
 
 
 
-##SELECTED COURSES & CERTIFICATIONS
+SELECTED COURSES & CERTIFICATIONS
 
 Energy Production, Distribution & Safety Specialization
 SUNY Buffalo - Coursera 
@@ -135,7 +136,7 @@ Credential ID: MQT4RFHQMLQP
 
 
 
-##SELECTED PROJECTS
+SELECTED PROJECTS
 
 Electron Matter-wave Tractor Beams: Study & Simulation of Quantum-mechanical Stress & Force
 EEE499: Senior Design Project (undergraduate thesis)
@@ -161,7 +162,7 @@ Variable DC power supply capable of delivering 6 A current with a voltage range 
 
 
 
-##TECHNICAL SKILLS
+TECHNICAL SKILLS
 
 Simulation & Computer Aided Engineering
 COMSOL Multiphysics
@@ -189,7 +190,7 @@ Overleaf
 Typing Speed: 85 WPM
 
 
-##REFERENCES
+REFERENCES
 
 Dr. Mahdy Rahman Chowdhury
 Associate Professor
@@ -206,6 +207,5 @@ North South University (NSU)
 	
 atiqur.rahman@northsouth.edu
 +88 02 55668200 Ext – 1517
-
 
 
