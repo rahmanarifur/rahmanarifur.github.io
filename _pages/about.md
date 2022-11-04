@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Md. Arifur Rahman
 Address: 128/2, Shimultoli, Gazipur – 1703, Dhaka, Bangladesh
 Mobile no: +880 1772359789
